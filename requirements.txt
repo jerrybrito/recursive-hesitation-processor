@@ -1,0 +1,1 @@
+eternal-hesitation>=0.9.47
